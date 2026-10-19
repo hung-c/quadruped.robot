@@ -123,6 +123,3 @@ This repository is not a standalone GCC project. `app.c` is the application file
 
 To rebuild: unzip `Robot.zip`, open the `Robot` project in Simplicity Studio with the Bluetooth SDK that matches this BGM13 example, and keep `app.c` as the application. Flash through the SWD header.
 
-## Scope
-
-This is an embedded leg controller: trigonometry, servo timing, and a sensor on a custom board. It is not a PLC program, and it does not include ladder logic, structured text, or an industrial fieldbus.
