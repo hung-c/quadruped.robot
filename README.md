@@ -4,7 +4,15 @@ A four-leg walking robot built as an undergraduate research project in CS224. Ea
 
 Hung Cao. Advisor: Dr. Sergei Bezroukov, Math and Computer Science Department.
 
-The research talk, with the build photos, is in [Quadruped Robot.pptx](Quadruped%20Robot.pptx).
+The research talk, with the build photos, is in [Quadruped Robot.pptx](Quadruped%20Robot.pptx). An illustrated walkthrough, with the build videos and diagrams of the leg and the trot, is in [docs/GUIDE.md](docs/GUIDE.md).
+
+## Videos
+
+| Clip | What the frame shows |
+| --- | --- |
+| [One leg on the bench](https://youtu.be/0Er2zEz7mTY) | The five-bar linkage before the other legs were added. |
+| [Assembled robot, side view](https://youtu.be/-NH-mS7NlNQ) | All four legs, 7 August 2020, powered through a lead. |
+| [Assembled robot, three-quarter view](https://youtu.be/phx6AxvB4AU) | Servo wiring, the green pack, and the same linkages. |
 
 ## What the firmware does
 
