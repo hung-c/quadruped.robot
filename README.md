@@ -4,6 +4,19 @@ A four-leg walking robot built as an undergraduate research project in CS224. Ea
 
 Hung Cao. Advisor: Dr. Sergei Bezroukov, Math and Computer Science Department.
 
+<p>
+  <img src="docs/stills/side-view.jpg" alt="Four-leg robot on carpet, white printed chassis and five-bar legs" width="420">
+  <img src="docs/stills/three-quarter.jpg" alt="Closer view of the chassis, servo wires, and the four legs" width="420">
+</p>
+
+The finished walker, from the build videos. The first still is the [side view](https://youtu.be/-NH-mS7NlNQ) on 7 August 2020. The second is the [three-quarter view](https://youtu.be/phx6AxvB4AU).
+
+<p>
+  <img src="docs/stills/one-leg.jpg" alt="One printed five-bar leg on a bench, two servos and a round foot" width="420">
+</p>
+
+One leg on the bench, before the other three were fitted. [That clip](https://youtu.be/0Er2zEz7mTY) is the five-bar the gait math is written for.
+
 The research talk, with the build photos, is in [Quadruped Robot.pptx](Quadruped%20Robot.pptx). An illustrated walkthrough, with the build videos and diagrams of the leg and the trot, is in [docs/GUIDE.md](docs/GUIDE.md).
 
 ## Videos
